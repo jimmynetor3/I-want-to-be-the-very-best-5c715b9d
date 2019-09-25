@@ -5,13 +5,13 @@ h3 {
 td {
 	padding-right: 80px;
 	padding-left: 80px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	border:solid black;
 	background-color: white;
 }
-span{
-	margin-right: 150px
+span {
+	
 }
 body {
 	background-color: orange;
