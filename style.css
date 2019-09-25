@@ -10,8 +10,8 @@ td {
 	border:solid black;
 	background-color: white;
 }
-span {
-	
+input {
+	size: 40%;
 }
 body {
 	background-color: orange;
